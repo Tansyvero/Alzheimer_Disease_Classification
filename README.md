@@ -12,10 +12,12 @@ The five different classes namely
 Machine Learning Models used:
 * Random Forest Classifier
 * Decision Tree
-* SVC
-* XGBoost
-* Stacking
-* Blending
+* Logistic Regression 
+* Support Vector Classifier 
+* Bagging 
+* XGBoost 
+* Stacking 
+* Blending 
 
   
 
