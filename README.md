@@ -19,6 +19,5 @@ Machine Learning Models used:
 * Stacking 
 * Blending 
 
-  
-
+Conclusion: XGBoost can efficiently classify the stages of the Alzheimer Disease with an accuracy of 90% on the ADNI dataset. 
 
