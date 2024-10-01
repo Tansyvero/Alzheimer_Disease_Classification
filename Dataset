@@ -1,0 +1,17 @@
+📅 Dataset Link: https://tadpole.grand-challenge.org/Data/
+In TADPOLE_D1_D2.csv, each row represents data for one particular visit of a subject, and each column represents a feature or measurement (commonly called biomarker) from the subject at that particular visit. 
+The first columns in the spreadsheet contain unique identifiers: 
+  RID (roster ID) uniquely identifies every subject, 
+  VISCODE (visit code) is the timepoint when the visit takes place (bl is baseline or month 0, m06 is month 6, etc ..), 
+  SITE represents the site ID where the visit took place. 
+  Other important columns are: EXAMDATE represents the date of the clinical examination, 
+  AGE is their age at baseline visit, 
+  PTEDUCAT represents their total years of education.
+The measures includes: DX, ADAS13, Ventricles
+Cognitive tests: CDRSB, ADAS11, MMSE, RAVLT_immediate
+MRI measures: Hippocampus, WholeBrain, Entorhinal, MidTemp
+PET measures: FDG, AV45
+CSF measures: ABETA_UPENNBIOMK9_04_19_17  (amyloid-beta level in CSF), 
+TAU_UPENNBIOMK9_04_19_17 (tau level), 
+PTAU_UPENNBIOMK9_04_19_17 (phosphorylated tau level)
+Risk factors: APOE4, AGE
