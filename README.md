@@ -1,13 +1,14 @@
 # Alzheimer_Disease_Classification
 🚩 This Project builts an end-to-end mutli-class classifier using various classifier Algorithms in Machine Learning.
-The main aim of this project is to apply machine learning techniques on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset to classify the different stages of the Alzheimer Disease.
+The main aim of this project is to apply machine learning techniques on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset to distinguish between 6 diagnostic categories provided in the ADNI dataset, including both stable diagnoses (NL, MCI, Dementia) and transition states (NL→MCI, MCI→NL, MCI→Dementia).
 
-The five different classes namely 
-* Cognitively Normal (CN),
-* Early Mild Cognitive Impairment (EMCI) ,
-* Late Mild Cognitive Impairment (LMCI),  
-* Subjective Memory Complaint (SMC),
-* Alzheimer’s Disease (AD).
+The six different classes namely 
+* Dementia
+* MCI (Mild Cognitive Impairment)
+* MCI to Dementia
+* MCI to NL
+* NL (Cognitively Normal)
+* NL to MCI
 
 Machine Learning Models used:
 * Random Forest Classifier
