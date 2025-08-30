@@ -1,7 +1,8 @@
-# Alzheimer_Disease_Classification
+# Classification_of_Alzheimer_Disease_Progression
+
 🚩 This Project builts an end-to-end mutli-class classifier using various classifier Algorithms in Machine Learning.
 
-The main aim of this project is to apply machine learning techniques on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset to distinguish between 6 diagnostic categories provided in the ADNI dataset, including both stable diagnoses (NL, MCI, Dementia) and transition states (NL→MCI, MCI→NL, MCI→Dementia).
+The main aim of this project is to apply machine learning techniques on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset to distinguish between 6 diagnostic categories, including both stable diagnoses (NL, MCI, Dementia) and transition states (NL→MCI, MCI→NL, MCI→Dementia).
 
 The six different classes namely 
 * Dementia
